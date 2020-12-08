@@ -6,7 +6,7 @@ This is a repository containing solutions for AdventOfCode Challenge held once i
 
 The challenge is unique compared to other competitive programming challenges.
 
-The whole challenge revolves around a story and we are given daily two problems to 
+The whole challenge revolves around a story and we are given daily two problems based on it.
 
 The solutions are written in [Julialang](https://julialang.org/) a high performance language, easy to code like Python achieving speeds of C.
 
