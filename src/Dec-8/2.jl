@@ -1,4 +1,4 @@
-module Dec8Part1
+module Dec8Part2
 function get_new_index_compute_accumulator(op, value, current_index, accumulator)
     if op == "jmp"
         current_index += value
