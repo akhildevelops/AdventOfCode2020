@@ -39,5 +39,3 @@ function main(file_path::String)::Int64
     return get_accumulator_run_operations(operations, current_index, accumulator)
 end
 end
-
-println(Dec8Part1.main("./Inputs/Dec-8/input.txt"))
