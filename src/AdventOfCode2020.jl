@@ -1,6 +1,6 @@
 module AdventOfCode2020
 
-include_dates = [1,2,3,4,5,6,7,8]
+include_dates = [1,2,3,4,5,6,7,8,9]
 
 function get_filepath(date::Int64)::Tuple{String,String}
     return joinpath(@__DIR__, "Dec-$(date)", "1.jl"), joinpath(@__DIR__, "Dec-$(date)", "2.jl")

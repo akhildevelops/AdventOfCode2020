@@ -19,4 +19,3 @@ function main(file_path::String)::Union{Int64,Nothing}
     return max(numbers...) + min(numbers...)
 end
 end
-Dec9Part2.main("./Inputs/Dec-9/input.txt")
