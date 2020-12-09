@@ -2,7 +2,7 @@
 
 [![Advent Of Code](https://miro.medium.com/max/1200/1*XtCMwEXZe2VcH-jfcHwCBQ.jpeg)](https://adventofcode.com/)
 
-This is a repository containing solutions for AdventOfCode Challenge held once in every year starting from December 1st to December 25th
+This is a repository containing solutions for AdventOfCode Challenge held once in every year starting from December 1st to December 25th.
 
 The challenge is unique compared to other competitive programming challenges.
 
@@ -20,3 +20,4 @@ The solutions are written in [Julialang](https://julialang.org/) a high performa
 | Dec-6 | [Custom Customs](./src/Dec-6) 🛃 | ⭐ | ⭐ |
 | Dec-7 | [Handy Haversacks](./src/Dec-7) 🧳 | ⭐ | ⭐ |
 | Dec-8 | [Handheld Halting](./src/Dec-8) 🕹️ | ⭐ | ⭐ |
+| Dec-9 | [Encoding Error](./src/Dec-9) 💻 | ⭐ | ⭐ |
